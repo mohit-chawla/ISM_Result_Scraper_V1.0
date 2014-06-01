@@ -1,11 +1,5 @@
 ISM_Result_Scraper_V1.0
 =======================
-
-#                               *       *        *****
-# Author : Mohit Chawla         * *   * *       * 
-#                         **********************************
-# ISM RESULT SCRAPER V1.0       *   *   *       * **
-#-------------------------------*-------*--------*****-----------
 # Description : This script automates the tideous task of viewing semester result.
 # >>Displays the result of all students of a particular batch(year) between given two admission numbers 
 # >>The results are saved to a "results.csv(MS Excel Spreadsheet)"
