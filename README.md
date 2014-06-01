@@ -1,9 +1,9 @@
 ISM_Result_Scraper_V1.0
 =======================
 
-A#                               *       *        *****
+#                               *       *        *****
 # Author : Mohit Chawla         * *   * *       * 
-# License : GNU GPL v2.0   **********************************
+#                         **********************************
 # ISM RESULT SCRAPER V1.0       *   *   *       * **
 #-------------------------------*-------*--------*****-----------
 # Description : This script automates the tideous task of viewing semester result.
